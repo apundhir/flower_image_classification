@@ -13,8 +13,8 @@ Objectives:
 
 ## Roses
 
-![img1.png](img1.png)
+![Roses](https://github.com/apundhir/flower_image_classification/blob/main/flowers/rose/1461381091_aaaa663bbe_n.jpg)
 
 ## Daisy
-![img2.png](img2.png)   
+![Daisy](https://github.com/apundhir/flower_image_classification/blob/main/flowers/daisy/13977181862_f8237b6b52.jpg)   
 
