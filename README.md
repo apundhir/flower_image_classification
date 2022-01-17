@@ -13,8 +13,8 @@ Objectives:
 
 ## Roses
 
-![img_1.png](resources/images/img_1.png)   
+![img1.png](img1.png)
 
 ## Daisy
-![img.png](resources/images/img.png)   
+![img2.png](img2.png)   
 
