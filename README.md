@@ -17,4 +17,3 @@ Objectives:
 
 ## Daisy
 ![Daisy](https://github.com/apundhir/flower_image_classification/blob/main/flowers/daisy/13977181862_f8237b6b52.jpg)   
-
